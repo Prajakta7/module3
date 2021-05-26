@@ -1,4 +1,7 @@
 This is first line
 This is second line
+<<<<<<< HEAD
 This is third line
+=======
 This is fourth line
+>>>>>>> feature2
